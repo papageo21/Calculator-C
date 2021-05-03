@@ -20,7 +20,7 @@ main()
 		printf("\nDwse ton deutero arithmo: ");
 		scanf("%f",&j);
 		
-		printf("\nDialekse pia praksi theleis na kaneis(+,-,*,/)\nh gia exodo apo to programma to E: ");
+		printf("\nDialekse pia praksi theleis na kaneis(+,-,*,/)\n h gia exodo apo to programma to E: ");
 		scanf("%s",&choice);
 		
 		printf("\n\n");
